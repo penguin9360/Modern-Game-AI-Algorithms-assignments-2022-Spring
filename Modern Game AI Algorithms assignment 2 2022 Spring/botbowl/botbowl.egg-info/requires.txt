@@ -1,0 +1,12 @@
+numpy
+untangle
+Flask
+gym
+Jinja2
+python-interface
+stopit
+requests
+Cython>=3.0a7
+pytest
+matplotlib
+more_itertools
